@@ -58,6 +58,11 @@ export default {
 
 .pie a {
   color: #d97c30 !important;
+  text-decoration: none;
+}
+
+.pie :hover {
+  text-decoration: underline;
 }
 
 .v-btn :hover {

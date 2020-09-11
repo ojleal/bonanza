@@ -69,4 +69,12 @@ export default {
   letter-spacing: 0px !important;
   line-height: 88px !important;
 }
+
+.v-btn.botones2 :hover {
+  text-decoration: none;
+}
+
+.botones.v-btn :hover {
+  background-color: #cde0e7;
+}
 </style>
